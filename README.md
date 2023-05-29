@@ -1,2 +1,2 @@
 # IQC
-University project about computatiotal chemistry
+University project about computational chemistry
