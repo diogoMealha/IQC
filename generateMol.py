@@ -1,3 +1,4 @@
+# create a list of molecules based on smile format
 import os
 MAX_CARBON_NUMBER = 100
 DST_FOLDER = "CARBON_BASE"
